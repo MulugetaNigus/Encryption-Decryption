@@ -1,0 +1,42 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    /* background-color: #fffb82; */
+    background-color: #74ffa7;
+    margin: 0;
+    padding: 0;
+    /* box-shadow: 5px 1px 25px #fffb82; */
+    box-shadow: 5px 1px 25px #74ffa7;
+    /* height: 740px; */
+}
+
+testColor{
+    background-color: #4b9265;
+}
+
+.FirstTitle{
+    font-size: 55px;
+    padding: 20px;
+    font-weight: light;
+    color: rgb(70, 47, 12);
+}
+
+.SecondTitle{
+    font-size: 20px;
+    padding: 10px;
+    font-weight: light;
+    color: #173b15;
+    margin-top: 20px;
+}
+
+.image{
+    background-image: url('./Assets/encdec.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
